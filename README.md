@@ -13,11 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Hi! there 👋
-<span> ✉️ Contact : sonjy2303@gmail.com </span> <br>
-<p align='center'>
+<span> ✉️ Contact : sonjy2303@gmail.com </span> <br><br>
   🌱 I’m currently learning
-</p>
-<p align='center'>
+<p>
   <img src="https://img.shields.io/badge/-Java-344CB7?style=flat-plastic&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">  
   <img src="https://img.shields.io/badge/-springBoot-green?style=flat-plastic&logo=Spring Boot&logoColor=white"/>
@@ -29,7 +27,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white">
   
 </p>
- <p align='center'>
+ <p>
   <img src="https://img.shields.io/badge/-Slack-753188?style=flat-plastic&logo=Slack&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Github-2C272E?style=flat-plastic&logo=GitHub&logoColor=white"/>
 </p>
