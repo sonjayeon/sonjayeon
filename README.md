@@ -33,14 +33,13 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-Github-2C272E?style=flat-plastic&logo=GitHub&logoColor=white"/>
 </p>
 
-
 ### 🔭 I’m currently working on
 
 ![jayeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jayeon&show_icons=true&theme=material-palenight)
 
 ### :muscle: I’m currently Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonjayeon&layout=compact)](https://github.com/sonjayeon/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonjayeon&layout=compact&theme=material-palenight&langs_count=8)](https://github.com/sonjayeon/github-readme-stats)
 
 
 
