@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Hi! there 👋
+<span> ✉️ Contact : sonjy2303@gmail.com </span> <br>
 <p align='center'>
   🌱 I’m currently learning
 </p>
