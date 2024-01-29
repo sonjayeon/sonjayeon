@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <span> ✉️ Contact : sonjy2303@gmail.com </span> <br><br>
   🌱 I’m currently learning
 <br><br>
-<h2 align="left">🛠Stack</h2>
+<h2 align="lmi">🛠Stack</h2>
 <h3 align="left">🖥️BackEnd</h3>  
 <p>
   <img src="https://img.shields.io/badge/JAVA-007396?style=flat-plastic&logo=java&logoColor=white">
@@ -49,7 +49,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
   <img src="https://img.shields.io/badge/apachekafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
 </p>
-<br><br>
 
 ### 🔭 I’m currently working on
 
