@@ -44,10 +44,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/jira-0052CC?style=flat-square&logo=jira&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Slack-753188?style=flat-plastic&logo=Slack&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Github-2C272E?style=flat-plastic&logo=GitHub&logoColor=white"/>
-  <img src="https://img.shields.io/badge/kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/apachekafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
 </p>
 
 ### 🔭 I’m currently working on
